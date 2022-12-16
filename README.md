@@ -16,10 +16,6 @@ You can install these modules using the following command:
 
 ## Usage
 
-To run the travel_times.py program, use the following command:
-
-`python travel_times.py` (need to be fixed)
-
 To run the random_coordinates.py program, use the following command:
 
 `python random_coordinates.py`
@@ -27,6 +23,12 @@ To run the random_coordinates.py program, use the following command:
 To run the create_network.py program, use the following command:
 
 `python create_network.py`
+
+To run the travel_times.py program, use the following command:
+
+`python travel_times.py` (need to be fixed)
+
+More details on [docs](https://github.com/tamagusko/travel-time/tree/main/docs)
 
 ## License
 
