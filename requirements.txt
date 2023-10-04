@@ -24,7 +24,7 @@ numpy==1.23.5
 osmnx==1.2.3
 packaging==22.0
 pandas==1.5.2
-Pillow==9.3.0
+Pillow==10.0.1
 pycodestyle==2.10.0
 pyflakes==3.0.1
 pyparsing==3.0.9
